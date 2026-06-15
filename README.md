@@ -15,8 +15,22 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 
 ## Tecnologías
 
+**Lenguajes**
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
+**Frameworks & Plataformas**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -29,6 +43,7 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 | [GymTracker-iOS](https://github.com/ortizserminio/GymTracker-iOS) | App nativa iOS para registrar entrenamientos, seguimiento de volumen muscular y sincronización con Apple Health | Swift · iOS |
 | [DriveBudget](https://github.com/ortizserminio/DriveBudget) | App para controlar y gestionar gastos personales | — |
 | [progrmacion](https://github.com/ortizserminio/progrmacion) | Ejercicios y práctica de programación en C | C |
+| [Practica2DAI](https://github.com/ortizserminio/Practica2DAI) | Prácticas de clase: desarrollo de aplicaciones web con ASP.NET y JSP | Java · ASP.NET |
 
 ---
 
