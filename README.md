@@ -22,12 +22,16 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 **Frameworks & Plataformas**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 **Herramientas**
 
@@ -40,10 +44,15 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [GymTracker-iOS](https://github.com/ortizserminio/GymTracker-iOS) | App nativa iOS para registrar entrenamientos, seguimiento de volumen muscular y sincronización con Apple Health | Swift · iOS |
+| [GymTracker-iOS](https://github.com/ortizserminio/GymTracker-iOS) | App nativa iOS para registrar entrenamientos, seguimiento de volumen muscular y sincronización con Apple Health | Swift · SwiftUI |
 | [DriveBudget](https://github.com/ortizserminio/DriveBudget) | App para controlar y gestionar gastos personales | — |
+| [practica1-DAI](https://github.com/ortizserminio/practica1-DAI) | Gestión de Taller de Motocicletas con PHP, MySQL y AJAX | PHP · MySQL |
+| [Practica2DAI](https://github.com/ortizserminio/Practica2DAI) | Prácticas de desarrollo web con ASP.NET y JSP | Java · ASP.NET |
+| [trabajo-grupal-DAI](https://github.com/ortizserminio/trabajo-grupal-DAI) | Sitio web UMH sobre Algoritmos y Programación por Bloques | HTML |
+| [practica1-DADM](https://github.com/ortizserminio/practica1-DADM) | Almacenamiento Android: SQLite, Ficheros, Cámara y Galería | Java · Android |
+| [practica2-DADM](https://github.com/ortizserminio/practica2-DADM) | MisTickets — App Android nativa con SQLite y Google Maps | Java · Kotlin · Android |
+| [trabajo-grupal-DADM](https://github.com/ortizserminio/trabajo-grupal-DADM) | Contador interactivo con Ionic + Angular (frameworks híbridos) | Ionic · Angular |
 | [progrmacion](https://github.com/ortizserminio/progrmacion) | Ejercicios y práctica de programación en C | C |
-| [Practica2DAI](https://github.com/ortizserminio/Practica2DAI) | Prácticas de clase: desarrollo de aplicaciones web con ASP.NET y JSP | Java · ASP.NET |
 
 ---
 
