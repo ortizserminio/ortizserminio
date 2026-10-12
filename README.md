@@ -1,8 +1,8 @@
 # Hi, I'm Esterly Ortiz Serminio 👋
 
-🎓 Estudiante de Ingeniería en la **Universidad Miguel Hernández** · Orihuela, Alicante  
+🎓 Estudiante de 4º Ingeniería en la **Universidad Miguel Hernández** · Orihuela, Alicante  
 💻 Apasionada por el desarrollo de software, explorando nuevas tecnologías  
-🌱 Actualmente ampliando conocimientos en desarrollo de aplicaciones  
+🌱 Actualmente ampliando conocimientos en desarrollo de aplicaciones, ML y LLMs
 📬 Abierta a prácticas y colaboraciones
 
 ---
