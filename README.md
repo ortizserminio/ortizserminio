@@ -7,9 +7,17 @@
 
 ---
 
-## Sobre mí
+### Sobre mí
 
-Soy estudiante de ingeniería en la UMH con experiencia en programación en C y desarrollo de aplicaciones iOS con Swift. Me gusta construir cosas útiles y estoy en proceso de descubrir hacia dónde quiero llevar mi carrera en tecnología.
+Estudiante de último curso de **Ingeniería Informática** en la Universidad Miguel Hernández (UMH), en Orihuela. Busco **prácticas de ingeniería de software en 2027**.
+
+**Con qué he trabajado**
+- **C y Linux:** en Sistemas Operativos programé procesos que se comunican entre sí con pipes, memoria compartida y semáforos, y scripts en Bash.
+- **Algoritmos y estructuras de datos:** pilas, colas, árboles (ABB y AVL), grafos (Floyd, Kruskal) y programación dinámica, en Python y C++.
+- **Aplicaciones:** apps para iOS (Swift), Android (Java/Kotlin) y web (React, PHP).
+
+**Qué me gusta:** entender por qué falla algo y arreglarlo.
+**Ahora mismo:** aprendiendo a automatizar tareas y a vigilar que un servicio funcione, y aprendiendo ML y LLMs.
 
 ---
 
@@ -24,7 +32,7 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_%26_Data_Structures-6E40C9?style=flat&logo=thealgorithms&logoColor=white)](https://github.com/ortizserminio/algorithms-and-data-structures)
+
 
 **Frameworks & Plataformas**
 
@@ -39,6 +47,7 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+[![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_%26_Data_Structures-6E40C9?style=flat&logo=thealgorithms&logoColor=white)](https://github.com/ortizserminio/algorithms-and-data-structures)
 
 ---
 
