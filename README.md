@@ -23,6 +23,8 @@ Soy estudiante de ingeniería en la UMH con experiencia en programación en C y 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_%26_Data_Structures-6E40C9?style=flat&logo=thealgorithms&logoColor=white)](https://github.com/ortizserminio/algorithms-and-data-structures)
 
 **Frameworks & Plataformas**
 
